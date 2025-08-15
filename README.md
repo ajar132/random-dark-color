@@ -10,7 +10,7 @@ A simple web project that changes the background color of the page to a random d
 ---
 
 ## 🚀 Live Demo
-You can try it here: [Live on GitHub Pages](https://YOUR_USERNAME.github.io/random-dark-color/)
+You can try it here: [Live on GitHub Pages](https://ajar132.github.io/random-dark-color/)
 
 ---
 
